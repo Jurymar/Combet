@@ -11,7 +11,3 @@
 .intro-header, .banner{
 	background-attachment:fixed; /*para que haga parallax*/
 }
-
-.conten-section-a, .content-section-b{
-	padding: 80px 0;
-}
